@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f6bae64-2a28-463b-8864-2f48921ee08c" name="Default Changelist" comment="">
+    <list default="true" id="2f6bae64-2a28-463b-8864-2f48921ee08c" name="Default Changelist" comment="pętle,for for each">
+      <change afterPath="$PROJECT_DIR$/src/pl/javaStart/library/io/File/CsvFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/javaStart/library/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/app/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/LibraryApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/LibraryControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/app/LibraryApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/app/LibraryApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/app/LibraryControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/app/LibraryControl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/io/DataReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/io/DataReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/model/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/model/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/model/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Library/pl/javaStart/library/model/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/javaStart/library/LibraryApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/javaStart/library/LibraryControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/javaStart/library/app/LibraryApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/javaStart/library/app/LibraryApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/javaStart/library/app/LibraryControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/javaStart/library/app/LibraryControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pl/javaStart/library/io/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/javaStart/library/io/DataReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/javaStart/library/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/javaStart/library/model/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pl/javaStart/library/model/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/javaStart/library/model/Library.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -26,8 +40,17 @@
   </component>
   <component name="ProjectId" id="1QNh5yruTzvUQbcqiLESg7BPf4J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javastart" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -82,8 +105,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567616781141</updated>
+      <workItem from="1582877709038" duration="12609000" />
+      <workItem from="1583173764156" duration="1210000" />
+      <workItem from="1583213524025" duration="1507000" />
     </task>
+    <task id="LOCAL-00001" summary="pętle,for for each">
+      <created>1582065459074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582065459074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -97,5 +134,50 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pętle,for for each" />
+    <option name="LAST_COMMIT_MESSAGE" value="pętle,for for each" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1582915033640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582915033640" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1583217405097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583217405097" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582975964031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582975964031" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582975964031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582975964031" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582975964030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582975964030" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582975964031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582975964031" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1583217162349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583217162349" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pl/javaStart/library/io/File/SerializableFileManager.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
